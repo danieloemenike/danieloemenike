@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Daniel Emenike. A developer with some years of experience in front end development.
-- 👀 I’m interested in Golang, Solidity, React Javascript, Postgresql and Mongo DB
+- 👋 Hi, I’m Daniel Emenike. A Developer with some years of experience in front end web development and low code(power apps).
+- 👀 I’m skilled in Golang, Solidity, React Javascript, Postgresql and Mongo DB
 - 🌱 I’m currently learning cloud computing in GCP & AWS, Devops and web 3
-- 
 - 📫 You can reach me on danieloemenike@gmail.com or ceo@danieloemenike.com
 
 <!---
