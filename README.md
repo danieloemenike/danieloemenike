@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Emenike. A Software Developer experienced in front end web development and low code(power apps).
-- 👀 I’m skilled in Golang, Solidity, React Javascript, Postgresql and Mongo DB
+- 👀 I’m skilled in React Javascript, NextJs, NodeJs, GoLang, Sanity.io, GraphQL, and Mongo DB
 - 🌱 I’m currently taking a paid certification in Google cloud engineering, Devops and web 3
 - 📫 You can reach me on danieloemenike@gmail.com or ceo@danieloemenike.com
 
