@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Daniel Emenike. A Software Developer experienced in full stack web development.
-- 👀 I’m experienced in ReactJs, NextJs, NodeJs, Postgresql, GoLang, Sanity.io, GraphQL, and Mongo DB
+- 👋 Hi, I’m Daniel Emenike. A Software Developer with more than 4 years experience in full stack web development.
+- Experienced in ReactJs, NextJs, NodeJs, Postgresql, GoLang, Sanity.io, GraphQL, and Mongo DB
 - Experienced in Digital Marketing concepts such as SEO, SEM and brand visibility(Ads Management and creation)
-- 📫 You can reach me on danieloemenike@gmail.com or ceo@danieloemenike.com
+- Fascinated by Artificial Intelligence especially looking forward to implementing Ai Models into my projects
+- 📫 You can send me an email on danieloemenike@gmail.com 
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieloemenike&show_icons=true&theme=radical&hide=stars,contribs&rank_icon=github)](https://github.com/danieloemenike/github-readme-stats)
 
