@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Emenike. A Software Developer with more than 4 years experience in full stack web development.
+- Hello!👋, I’m Daniel Emenike. A Software Developer with more than 4 years experience in full stack web development.
 - Experienced in ReactJs, NextJs, NodeJs, Postgresql, GoLang, Sanity.io, GraphQL, and Mongo DB
 - Experienced in Digital Marketing concepts such as SEO, SEM and brand visibility(Ads Management and creation)
 - Fascinated by Artificial Intelligence especially looking forward to implementing Ai Models into my projects
