@@ -1,15 +1,17 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello😀%20and%20welcome!;I%20'm%20Daniel%20Emenike😎; A%20Full-stack%20web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Please%20feel%20free%20to%20connect%20with%20me🤴📞&font=Fira%20Code&center=true&width=500&height=45&color=FFD700&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi😀%20and%20welcome!;I%20'm%20Daniel%20Emenike😎; A%20Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Please%20feel%20free%20to%20connect%20with%20me🤴📞&font=Fira%20Code&center=true&width=500&height=45&color=FFFFFF&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 
-- Hello!👋, I’m Daniel Emenike. A Software Developer with more than 4 years experience in full stack web development.
+- I’m Daniel Emenike, A Software Developer and a Certified SEO analyst with more than 6 years experience.
 - Experienced in ReactJs, NextJs, NodeJs, Postgresql, GoLang, Sanity.io, GraphQL, and Mongo DB
-- Experienced in Digital Marketing concepts such as SEO, SEM and brand visibility(Ads Management and creation)
-- Fascinated by Artificial Intelligence especially looking forward to implementing Ai Models into my projects
-- 📫 You can send me an email on danieloemenike@gmail.com 
+- For Technical SEO Analysis, I use Screaming Frog, MOZ, AIOSEO Plugin on wordpress and SEMRush
+- Experienced in Digital Marketing such as SEM and brand visibility(Ads Management and creation)
+- Daniel Emenike is also fascinated by Artificial Intelligence and Blockchain Technologies especially also looking forward to implement some Ai Models into upcoming projects
+- 📫 You can send me an email on danieloemenike@gmail.com or daniel@emenikedaniel.tech
+- My seo agency website is www.iconicbrands.tech and my business website is www.emenikedaniel.tech
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieloemenike&show_icons=true&theme=radical&hide=stars,contribs&rank_icon=github)](https://github.com/danieloemenike/github-readme-stats)
 
